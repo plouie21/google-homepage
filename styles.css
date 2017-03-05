@@ -1,0 +1,51 @@
+img{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-bottom: 375px;
+
+
+}
+
+#form{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -50px;
+  margin-left: -100px;
+}
+
+ul { 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    overflow: hidden;
+}
+
+li{ 
+	float:right;
+	display: inline;
+}
+
+li a {
+    display: block;
+    color: Grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.submit {
+	margin:5;
+	position:relative;
+	color:grey;
+	font-size:14px;
+	font-family: sans-serif;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
+	
