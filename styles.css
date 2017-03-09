@@ -1,13 +1,13 @@
+/*Large google image*/
 img{
   position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding-bottom: 375px;
-
-
 }
 
+/* Search box */
 #form{
   position: fixed;
   top: 50%;
@@ -15,7 +15,7 @@ img{
   margin-top: -50px;
   margin-left: -100px;
 }
-
+/* Navigation bar */
 ul { 
     list-style-type: none;
     margin: 0;
@@ -36,9 +36,9 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
     font-family: 'Josefin Sans', sans-serif;
-
 }
 
+/*Submit button*/
 .submit {
 	margin:5;
 	position:relative;
